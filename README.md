@@ -1,6 +1,6 @@
 
 
-## Olá! Meu nome é Giovana Bazaga e estou no terceiro semestre de Análise e Desenvolvimento de Sistemas!
+## Olá! Meu nome é Giovana Bazaga e sou estudante de Análise e Desenvolvimento de Sistemas!
 Aqui você pode ver os projetos que tenho feito em busca de ganhar experiência para ter o meu primeiro emprego! Tenho estudado principalmente java, javascript e HTML & CSS.
 
 ##
